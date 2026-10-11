@@ -1,0 +1,10 @@
+In computer vision 
+images are numpy array
+(numpy array are python library for mathematical opeations )
+image shape is defined by (height,width,number of channels)
+number of channels - layers of colour used
+
+images are made by pixel
+MOST CASES -> PIXEL VALUE- RANGE FROM 0 TO 255
+IN BINARY(BLACK & WHITE) IMAGES -> PIXEL VALUE IS [0,1] OR [0,255] 0=BLACK 1/255=WHITE
+IN 16 BIT IMAGE -> PIXEL VALUE- RANGE FROM 0 TO 65535
